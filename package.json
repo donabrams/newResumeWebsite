@@ -1,0 +1,18 @@
+{
+  "name": "resumeWebsite",
+  "version": "1.0.0",
+  "description": "Resume website",
+  "main": "server.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/donabrams/newResumeWebsite.git"
+  },
+  "author": "D.T. Abrams",
+  "license": "apache",
+  "bugs": {
+    "url": "https://github.com/donabrams/newResumeWebsite/issues"
+  }
+}
