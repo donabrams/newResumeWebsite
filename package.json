@@ -16,7 +16,7 @@
     "url": "https://github.com/donabrams/newResumeWebsite/issues"
   },
   "engines": {
-    "node": "0.10.x"
+    "node": "0.10.*"
   },
   "devDependencies": {
     "gulp":"*"
