@@ -14,5 +14,14 @@
   "license": "apache",
   "bugs": {
     "url": "https://github.com/donabrams/newResumeWebsite/issues"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "devDependencies": {
+    "gulp":"*"
+  },
+  "dependencies": {
+    "express":"3.4.8"
   }
 }
