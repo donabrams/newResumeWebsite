@@ -5,8 +5,6 @@ var app = express();
 
 app.use(logfmt.requestLogger());
 
-app.get("/", function(req, res) {
-	res.send(200, "yay");
-});
+app.use(express.static(__dirname + "/static"));
 
 app.listen(port);
